@@ -1,2 +1,3 @@
 # hello-world
 My first repository!
+Hello, my name is Joy Bradshaw. I am currently going through the GitHub guide, and am on step 3. So far, so good...
